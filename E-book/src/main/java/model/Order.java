@@ -6,12 +6,13 @@ import org.hibernate.Session;
 import org.hibernate.query.Query;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.sql.Timestamp;
 import java.util.*;
 
 @Entity
 @Table(name = "orders", schema = "bookstore")
-public class Order {
+public class Order implements Serializable {
     private int id;
     private Timestamp time;
     private byte status;

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70f00453-8923-4c19-9a26-52fe41c4231e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Express.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/artifacts/untitled_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources/3e814166-8f0e-4956-8f86-9565bf562e22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources/f86c0c42-4071-4877-85d5-3551edbd5838.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources/ff447cd9-f630-4426-a9b0-2362367efe24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Hibernate_5_2_16_5_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_commons_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__asm_asm_tree_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__at_willhaben_willtest_core_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__at_willhaben_willtest_log4j_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__cglib_cglib_nodep_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_googlecode_lambdaj_lambdaj_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_kangyonggan_freemarker_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__log4j_log4j_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__me_aifaq_commons_lang_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__ognl_ognl_3_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_struts_struts2_json_plugin_2_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_lucee_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_lucee_commons_io_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_lucee_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_aop_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_aspects_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_beans_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_context_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_core_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_expression_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_instrument_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_instrument_tomcat_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_jms_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_messaging_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_orm_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_oxm_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_test_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_tx_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_web_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_wso2_orbit_commons_fileupload_commons_fileupload_1_3_3_wso2v1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__ru_yandex_qatools_ashot_ashot_1_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Spring_4_3_16_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Struts_2_2_5_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/mysql_connector_java_5_1_29_bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/model/BookEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/model/OrderEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/model/UserEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/css/app.d6482aa857ad6447a701d9faf333233d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/css/app.d6482aa857ad6447a701d9faf333233d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/app.9074075811dcd4cc4187.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/app.9074075811dcd4cc4187.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/app.a1b3a28818b76fea52c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/app.a1b3a28818b76fea52c7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/vendor.3c24d9dd2994a305024f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/js/vendor.3c24d9dd2994a305024f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/从零开始的异世界生活7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/你的名字.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/刀剑神域13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/刀剑神域17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/刀剑神域19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/刀剑神域进击篇4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/我的青春恋爱物语果然有问题.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/static/打工吧！魔王大人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/css/app.d6482aa857ad6447a701d9faf333233d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/css/app.d6482aa857ad6447a701d9faf333233d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/app.9074075811dcd4cc4187.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/app.9074075811dcd4cc4187.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/app.a1b3a28818b76fea52c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/app.a1b3a28818b76fea52c7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/vendor.3c24d9dd2994a305024f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/js/vendor.3c24d9dd2994a305024f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/从零开始的异世界生活7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/你的名字.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/刀剑神域13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/刀剑神域17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/刀剑神域19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/刀剑神域进击篇4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/我的青春恋爱物语果然有问题.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/artifacts/untitled_war_exploded/static/打工吧！魔王大人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/model/BookEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/model/OrderEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/model/UserEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/untitled/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/AllBooksAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/AllUsersAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/LoginAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/LogoutAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/RegisterAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/UpdateBookAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/UpdateCartItemAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/UpdateOrderAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/action/UpdateUserAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/OrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/impl/BookDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/impl/OrderDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/model/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/model/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/service/AppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/service/impl/AppServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/model/BookEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/model/OrderEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/model/UserEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/model/BookEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/model/OrderEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/model/UserEntity.hbm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/css/app.d6482aa857ad6447a701d9faf333233d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/css/app.d6482aa857ad6447a701d9faf333233d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/app.9074075811dcd4cc4187.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/app.9074075811dcd4cc4187.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/app.a1b3a28818b76fea52c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/app.a1b3a28818b76fea52c7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/vendor.3c24d9dd2994a305024f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/js/vendor.3c24d9dd2994a305024f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/从零开始的异世界生活7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/你的名字.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/刀剑神域13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/刀剑神域17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/刀剑神域19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/刀剑神域进击篇4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/我的青春恋爱物语果然有问题.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/static/打工吧！魔王大人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/css/app.636f0ba16439856f4fbedde6d5183d2f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/css/app.d6482aa857ad6447a701d9faf333233d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/css/app.d6482aa857ad6447a701d9faf333233d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/app.9074075811dcd4cc4187.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/app.9074075811dcd4cc4187.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/app.a1b3a28818b76fea52c7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/app.a1b3a28818b76fea52c7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/vendor.3c24d9dd2994a305024f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/js/vendor.3c24d9dd2994a305024f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/从零开始的异世界生活7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/你的名字.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/刀剑神域13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/刀剑神域17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/刀剑神域19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/刀剑神域进击篇4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/我的青春恋爱物语果然有问题.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web/static/打工吧！魔王大人.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Express.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Express.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jndi.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jndi.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="39" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jndi.properties" />
+        <option value="$PROJECT_DIR$/src/TestClient.java" />
+        <option value="$PROJECT_DIR$/src/Express.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../E-book" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClient" />
+      <module name="Client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70f00453-8923-4c19-9a26-52fe41c4231e" name="Default" comment="" />
+      <created>1552200830037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552200830037</updated>
+      <workItem from="1552200831315" duration="49000" />
+      <workItem from="1552200939030" duration="3372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3421000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49843505" weight="0.32975295" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007825" side_tool="true" visible="true" weight="0.32975295" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921754" weight="0.32975295" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960877" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jndi.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Express.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
