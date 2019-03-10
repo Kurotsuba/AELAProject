@@ -6,7 +6,8 @@ public class ExpressImpl extends UnicastRemoteObject implements Express{
 
     }
 
-    public String Info(String description) throws RemoteException{
-        return description + " Processing";
+    public String Info(Order order) throws RemoteException{
+        String result = order.getId() + " " + order.getTime() + " " + order.getStatus() + "\n";
+        return result + "Processing";
     }
 }

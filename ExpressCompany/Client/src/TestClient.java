@@ -10,8 +10,8 @@ public class TestClient{
         String url = "rmi://localhost/dhl";
         Express DHL = (Express) namingContext.lookup(url);
 
-        String descr = "Test Order";
-        String info = DHL.Info(descr);
+        Order order = new Order();
+        String info = DHL.Info(order);
         System.out.println(info);
     }
 }
